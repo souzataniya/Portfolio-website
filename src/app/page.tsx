@@ -288,6 +288,19 @@ export default function Home() {
       <div className="experience" id="experience" ref={experienceRef}>
         <div className="experienceheading">EXPERIENCE</div>
         <div className="companyBox">
+          <div className="companyName">Cognizant AI Labs</div>
+          <div className="companyPeriod">September 2026 – Present</div>
+          <div className="companySkills">
+            <div className="companySkillName">Junior Research Engineer</div>
+          </div>
+        </div>
+        <div className="experienceItem">
+          <div className="experienceName">Junior Research Engineer</div>
+          <div className="experienceDesc">
+          Working on AI research and development at Cognizant AI Labs.
+          </div>
+        </div>
+        <div className="companyBox">
           <div className="companyName">Indhic AI</div>
           <div className="companyPeriod">Jan 2026 – Feb 2026</div>
           <div className="companySkills">
