@@ -297,7 +297,7 @@ export default function Home() {
         <div className="experienceItem">
           <div className="experienceName">Junior Research Engineer</div>
           <div className="experienceDesc">
-          Working on AI research and development at Cognizant AI Labs.
+          Building internal tools for AI research and development at Cognizant AI Labs.
           </div>
         </div>
         <div className="companyBox">
