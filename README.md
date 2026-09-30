@@ -67,3 +67,5 @@ npm start
 ## License
 
 This project is for personal portfolio use.
+
+Hi! 👋
